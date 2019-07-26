@@ -21,5 +21,12 @@
     .option {
       padding: 10px 15px;
     }
+
+    .display-name {
+      text-transform: capitalize;
+      background-color: rgb(94, 177, 149);
+      padding: 3px;
+      border-radius: 2px;
+    }
   }
 }

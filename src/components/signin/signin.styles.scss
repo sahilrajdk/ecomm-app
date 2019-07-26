@@ -6,4 +6,9 @@
   .title {
     margin: 10px 0;
   }
+
+  .login-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
 }
